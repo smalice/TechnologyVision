@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTechnoLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TechnoLine>
+    <ID>1</ID>
+	<Name>ARTIFICIAL INTELLIGENCE</Name>
+    <YearItems>
+      <YearItem>
+        <Year>2012</Year>
+        <Name>High-frequency trading</Name>
+        <Text>The use of sophisticated technological tools to trade securities like stocks or options. In high-frequency trading, programs analyze market data to capture trading opportunities that may open up for only a fraction of a second to several hours.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2014</Year>
+        <Name>Software agents</Name>
+        <Text>An autonomous entity which observes and acts upon an environment and directs its activity towards achieving goals. Intelligent agents may also learn or use knowledge to achieve their goals. Software agents can pursue taks such as Data mining, Monitoring-and-surveillance, Buying-and-shopping, or Personal requests for its owner.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2016</Year>
+        <Name>Natural language interpretation</Name>
+        <Text>A field of computer science and linguistics concerned with the interactions between computers and human (natural) languages.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2018</Year>
+        <Name>Machine translation</Name>
+        <Text>The use of computer software to translate text or speech from one natural language to another. Current efforts such as Google Translate go a long way in translating text, but when coupled with proper Natural language interpretation, this technology would start removing language barriers altogether.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2019</Year>
+        <Name>Procedural storytelling</Name>
+        <Text>Content generated algorithmically rather than manually, and is often used to generate game levels and other content. While procedural generation does not guarantee that a game or sequence of levels are nonlinear, it is an important factor in reducing game development time, and opens up avenues making it possible to generate larger and more or less unique seamless game worlds on the fly and using fewer resources.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2020</Year>
+        <Name>VR-only lifeforms</Name>
+        <Text>(Hypothetical) A drastic improvement on existing electronic game Non-playing Character AIs. Theoretically, these lifeforms would “live” within VR worlds as independent AIs and interact with players.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2030</Year>
+        <Name>Machine-augmented cognition</Name>
+        <Text>Research field at the frontier between human-computer interaction that aims at creating revolutionary human-computer interactions.</Text>
+      </YearItem>
+    </YearItems>
+  </TechnoLine>
+  <TechnoLine>
+    <ID>2</ID>
+	<Name>INTERNET</Name>
+    <YearItems>
+      <YearItem>
+        <Year>2012</Year>
+        <Name>Cloud computing</Name>
+        <Text>The delivery of computing as a service rather than a product, whereby shared resources, software, and information are provided to computers and other devices as a utility (like the electricity grid) over a network (typically the Internet).</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2014</Year>
+        <Name>Cyberwarfare</Name>
+        <Text>Actions by a nation-state to penetrate another nation’s computers or networks for the purposes of causing damage or disruption.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2015</Year>
+        <Name>4G</Name>
+        <Text>The fourth generation of cellular wireless standards. A successor to the 3G and 2G families of standards. A 4G system is expected to provide a comprehensive and secure all-IP based mobile broadband solution to laptop computer wireless modems, smartphones, and other mobile devices. Facilities such as ultra-broadband Internet access, IP telephony, gaming services, and streamed multimedia may be provided to users.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2016</Year>
+        <Name>Mesh networking</Name>
+        <Text>A type of networking where each node must not only capture and disseminate its own data, but also serve as a relay for other nodes, that is, it must collaborate to propagate the data in the network.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2017</Year>
+        <Name>Photonics</Name>
+        <Text>Applications of photonics are ubiquitous. Included are all areas from everyday life to the most advanced science, e.g. light detection, telecommunications, information processing, lighting, metrology, spectroscopy, holography, medicine (surgery, vision correction, endoscopy, health monitoring), military technology, laser material processing, visual art, biophotonics, agriculture, and robotics.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2018</Year>
+        <Name>Virtual currencies</Name>
+        <Text>(Or in-game currency depending on environment). Used to purchase virtual goods within a variety of online communities; which include social networking websites, virtual worlds and online gaming sites.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2019</Year>
+        <Name>5G</Name>
+        <Text>A term used in research papers and projects to denote the next major phase of mobile telecommunications. Key concepts suggested in scientific papers discussing 5G and beyond 4G wireless communications include: Pervasive networks providing ubiquitous computing (The user can simultaneously be connected to several wireless access technologies and seamlessly move between them), Dynamic Adhoc Wireless Networks, IPv6, Wearable devices with AI capabilities and one unified global standard.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2020</Year>
+        <Name>Reputation economy</Name>
+        <Text>(Hypothetical) Happens after humanity moves toward a post-scarcity economy: All the necessities (and most of the luxuries) of life are free for the taking, thus a person’s social worth is measured by their reputation. Exemplified as Whuffie in Cory Doctorow’s science fiction novel Down and Out in the Magic Kingdom and in the “venture altruist” character Manfred Macx in the sci-fi novel Accelerando.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2030</Year>
+        <Name>Remote presence</Name>
+        <Text>(Hypothetical) Drastic improvement of Telepresence without the need of screens, microphones and cameras. By reading the brains sensorial input, transferring that data, and projecting it onto another persons neurons, the people connected would literally sense what the other were feeling.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2040</Year>
+        <Name>Exocortex</Name>
+        <Text>A theoretical artificial external information processing system that would augment a brain’s biological high-level cognitive processes.</Text>
+      </YearItem>
+    </YearItems>
+  </TechnoLine>
+  <TechnoLine>
+    <ID>3</ID>
+	<Name>INTERFACES</Name>
+    <YearItems>
+      <YearItem>
+        <Year>2012</Year>
+        <Name>Multitouch</Name>
+        <Text>A touch sensing surface’s ability to recognize the presence of two or more points of contact with the surface. This plural-point awareness is often used to implement advanced functionality such as pinch to zoom or activating predefined programs.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2014</Year>
+        <Name>Gesture recognition</Name>
+        <Text>Enables humans to interface with the machine and interact naturally without any mechanical devices. Using the concept of gesture recognition, it is possible to point a finger at the computer screen so that the cursor will move accordingly. This could potentially make conventional input devices such as mouse, keyboards and even touch-screens redundant.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2015</Year>
+        <Name>Speech recognition</Name>
+        <Text>Converts spoken words to computer-interpretable text. The technology can recognize speech without being targeted at single speaker—such as a call system that can recognize arbitrary voices.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2016</Year>
+        <Name>Augmented reality</Name>
+        <Text>A live view of a physical, real-world environment whose elements are augmented by computer-generated sensory input such as sound, video, metadata or graphics.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2017</Year>
+        <Name>4K</Name>
+        <Text>An emerging standard for resolution in digital film and computer graphics. The name comes from its approximately 4,000 pixels of horizontal resolution (or approximately four times the definition of a full HD image).</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2018</Year>
+        <Name>Haptics</Name>
+        <Text>Tactile feedback technology that takes advantage of a user’s sense of touch by applying forces, vibrations, or motions to the user. This mechanical stimulation may be used to assist in the creation of virtual objects, the control of such virtual objects, and the enhancement of the remote control for machines and devices.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2020</Year>
+        <Name>Holography</Name>
+        <Text>A technique that allows the light scattered from an object to be recorded and later reconstructed so that when an imaging system (a camera or an eye) is placed in the reconstructed beam, an image of the object will be seen even when the object is no longer present.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2030</Year>
+        <Name>Telepresence</Name>
+        <Text>A set of technologies which allow a person to feel as if they were present, to give the appearance of being present, or to have an effect, via telerobotics, at a place other than their true location.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2040</Year>
+        <Name>Immersive virtual reality</Name>
+        <Text>(Hypothetical) A fully immersive virtual reality to which the user connects through direct brain stimulation. All senses would be stimulated, diffusing the boundary between reality and fiction.</Text>
+      </YearItem>
+    </YearItems>
+  </TechnoLine>
+  <TechnoLine>
+    <ID>4</ID>
+	<Name>SENSORS</Name>
+    <YearItems>
+      <YearItem>
+        <Year>2012</Year>
+        <Name>Depth imaging</Name>
+        <Text>Depth (or Range) imaging is the name for a collection of techniques which are used to produce a 2D image showing the distance to points in a scene from a specific point, normally associated with some type of sensor device. The resulting image can be used to reproduce a 3D scene on screen.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2014</Year>
+        <Name>Near-field communication</Name>
+        <Text>Allows for simplified transactions, data exchange, and wireless connections between two devices in close proximity to each other, usually by no more than a few centimeters. Useful for short bursts of information, such as mobile payments and identification.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2015</Year>
+        <Name>Pervasive video capture</Name>
+        <Text>(Hypothetical) A combination of sensors and cameras worn by the user which record their surroundings at all times. A drastic extensions of current technologies like the Sensecam and the Looxcie.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2017</Year>
+        <Name>Biometric sensors</Name>
+        <Text>The use of biometrics to telecommunications and telecommunications to remote biometric sensing.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2018</Year>
+        <Name>Smart power meters</Name>
+        <Text>An electrical meter that records consumption of electric energy in intervals of an hour or less and communicates that information back to the utility for monitoring and billing purposes. A fundamental part of a smart grid and the Enernet.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2019</Year>
+        <Name>Biomarkers</Name>
+        <Text>A substance that is introduced into an organism as a means to examine organ function or other aspects of health. Currently, most biomarkers are chemical compounds examined via external apparatus, but future devices can be nanobots which automatically upload their readings outside the body.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2020</Year>
+        <Name>Machine vision</Name>
+        <Text>The process of applying a range of technologies &amp; methods to provide imaging-based automatic inspection, process control and robot guidance in industrial applications. A fundamental technology for improved robotics and AI.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2030</Year>
+        <Name>Optogenetics</Name>
+        <Text>The combination of genetic and optical methods to control specific events in targeted cells of living tissue, even within freely moving mammals and other animals, with the temporal precision (millisecond-timescale) needed to keep pace with functioning intact biological systems.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2040</Year>
+        <Name>Neuroinformatics</Name>
+        <Text>A research field encompassing the organization of neuroscience data by the application of computational models and analytical tools. It consists in the use of computer science for building databases, tools, and networks in neuroscience besides analyzing and modeling neuronal systems.</Text>
+      </YearItem>
+	</YearItems>
+  </TechnoLine>
+  <TechnoLine>
+    <ID>5</ID>
+	<Name>UBICOMP</Name>
+    <YearItems>
+      <YearItem>
+        <Year>2012</Year>
+        <Name>Tablets</Name>
+        <Text>A complete mobile computer, larger than a mobile phone or personal digital assistant, integrated into a flat touch screen.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2014</Year>
+        <Name>Volumetric (3D) screens</Name>
+        <Text>A graphical display device that forms a visual representation of an object in three physical dimensions, as opposed to the planar image of traditional screens that simulate depth through a number of different visual effects. Volumetric displays create 3-D imagery via the emission, scattering, or relaying of illumination from well-defined regions in (x,y,z) space.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2016</Year>
+        <Name>Flexible screens</Name>
+        <Text>Display devices which can be rolled up or folded.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2017</Year>
+        <Name>Boards</Name>
+        <Text>Meter-sized interactive displays serving a number of purposes: in the home, video screens and bulletin boards; in the office, bulletin boards, whiteboards or flip charts. A board might also serve as an electronic bookcase from which one might download texts to a pad or tab.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2018</Year>
+        <Name>Modular computers</Name>
+        <Text>Refers to a multiprocessing computer system where processing, memory, and peripheral units can be added or removed without disrupting its operation.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2019</Year>
+        <Name>Pico projectors</Name>
+        <Text>(Also known as handheld projector or pocket projector). An emerging technology that applies the use of an image projector in a handheld device. It is a response to the emergence of compact portable devices such as mobile phones, personal digital assistants, and digital cameras, which have sufficient storage capacity to handle presentation materials but little space to accommodate an attached display screen.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2020</Year>
+        <Name>Eyewear-embedded screens</Name>
+        <Text>Eyewear-embedded screens are a miniaturized kind of HUD embedded in the user’s eyewear.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2030</Year>
+        <Name>Skin-embedded screens</Name>
+        <Text>(Hypothetical) A blood-powered electronic interface which is embedded under skin to mimic a tattoo, display videos, or act as a phone or computer.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2040</Year>
+        <Name>Retinal screens</Name>
+        <Text>(Hypothetical) Screens embedded on the users retina.</Text>
+      </YearItem>
+	</YearItems>
+  </TechnoLine>
+  <TechnoLine>
+    <ID>6</ID>
+	<Name>ROBOTICS</Name>
+    <YearItems>
+      <YearItem>
+        <Year>2014</Year>
+        <Name>Appliance robots</Name>
+        <Text>Appliance robots</Text>
+      </YearItem>
+	  <YearItem>
+        <Year>2016</Year>
+        <Name>Telematics</Name>
+        <Text>Typically any integrated use of telecommunications and informatics. It refers to the integrated use of telecommunications and informatics, for application in vehicles and with control of vehicles on the move.</Text>
+      </YearItem>
+	  <YearItem>
+        <Year>2017</Year>
+        <Name>Smart toys</Name>
+        <Text>A toy which effectively has its own intelligence by virtue of electronics and connectivity. These enable it to learn, behave according to pattern, and alter its actions depending upon environmental stimuli. Typically, it can adjust to the abilities of the player.</Text>
+      </YearItem>
+	  <YearItem>
+        <Year>2018</Year>
+        <Name>Robotic surgery</Name>
+        <Text>Robotically-assisted surgery was developed to overcome both the limitations of minimally invasive surgery or to enhance the capabilities of surgeons performing open surgery. In the case of robotically assisted minimally invasive surgery, instead of directly moving the instruments, the surgeon uses one of two methods to control the instruments: either a direct telemanipulator or by computer control.</Text>
+      </YearItem>  	  
+	  <YearItem>
+        <Year>2019</Year>
+        <Name>Self-driving vehicles</Name>
+        <Text>A vehicle equipped with an autopilot system that is capable of driving without guidance by a human operator. Advantages include avoiding accidents by eliminating driver error, increase roadway capacity by reducing the distances between cars and better managing traffic flow.</Text>
+      </YearItem>	    	  
+	  <YearItem>
+        <Year>2020</Year>
+        <Name>Powered exoskeleton</Name>
+        <Text>A framework worn by a person and a power supply that supplies at least part of the activation-energy for limb movement. Powered exoskeletons are designed to assist and protect the wearer. They may be designed, for example, to assist and protect soldiers and construction workers, or to aid the survival of people in other dangerous environments. A wide medical market exists in the future of prosthetics to provide mobility assistance for aged and infirm people.</Text>
+      </YearItem>	  
+	  <YearItem>
+        <Year>2030</Year>
+        <Name>Domestic robots</Name>
+        <Text>A robot used for a limited set of household chores.</Text>
+      </YearItem>	  
+	  <YearItem>
+        <Year>2040</Year>
+        <Name>Embodied avatars</Name>
+        <Text>(Purely theoretical) A remotely controlled android. Requires massive advances in robotics and neuroinformatics.</Text>
+      </YearItem>
+	</YearItems>
+  </TechnoLine>
+  <TechnoLine>
+    <ID>7</ID>
+	<Name>BIOTECH</Name>
+    <YearItems>
+      <YearItem>
+        <Year>2012</Year>
+        <Name>Rapid personal gene sequencing</Name>
+        <Text>A branch of genomics where individual genomes are genotyped and analyzed using bioinformatics tools. The most important aspect of personal genomics is that it may eventually lead to personalized medicine, where patients can take genotype specific drugs for medical treatments.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2016</Year>
+        <Name>Organ printing</Name>
+        <Text>The use of a combination of cells, engineering and materials methods, and suitable biochemical and physio-chemical factors to improve or replace biological functions. The term is closely associated with applications that repair or replace portions of or whole tissues.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2018</Year>
+        <Name>Synthetic blood</Name>
+        <Text>A substance used to mimic and fulfill some functions of biological blood, usually in the oxygen-carrying sense. They aim to provide an alternative to blood transfusion, which is transferring blood or blood-based products from one person into another.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2019</Year>
+        <Name>Smart drugs</Name>
+        <Text>Also referred to as nootropics, brain steroids, memory enhancers, and cognitive and intelligence enhancers are drugs, supplements, nutraceuticals, and functional foods that improve mental functions such as cognition, memory, intelligence, motivation, attention, and concentration.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2020</Year>
+        <Name>Personalized medicine</Name>
+        <Text>A medical model emphasizing the customization of healthcare, with all decisions and practices being tailored to individual patients in whatever ways possible. The practice involves the systematic use of genetic or other information about an individual patient to select or optimize that patient’s preventative and therapeutic care.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2030</Year>
+        <Name>Gene therapy</Name>
+        <Text>Gene therapy is the insertion, alteration, or removal of genes within an individual’s cells and biological tissues to treat disease. It is a technique for correcting defective genes that are responsible for disease development.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2040</Year>
+        <Name>Antiaging drugs</Name>
+        <Text>Also known as antiaging medicine or life extension, refers to attempts to slow down or reverse the processes of aging to extend both the maximum and average lifespan. Breakthroughs in tissue rejuvenation with stem cells, molecular repair, and organ replacement (such as with artificial organs) will eventually enable humans to have indefinite lifespans through complete rejuvenation to a youthful condition.</Text>
+      </YearItem>
+	</YearItems>
+  </TechnoLine>
+  <TechnoLine>
+    <ID>8</ID>
+	<Name>MATERIALS</Name>
+    <YearItems>
+      <YearItem>
+        <Year>2012</Year>
+        <Name>Additive manufacturing</Name>
+        <Text>The manufacture of end-use products using additive manufacturing techniques” or more broadly, the application of layer manufacturing techniques to fabricate end use products.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2014</Year>
+        <Name>Self healing material</Name>
+        <Text>A class of smart materials that have the structurally incorporated ability to repair damage caused by mechanical usage over time. The inspiration comes from biological systems, which have the ability to heal after being wounded.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2017</Year>
+        <Name>Graphene</Name>
+        <Text>An allotrope of carbon, whose structure is one-atom-thick planar sheets of bonded carbon atoms that are densely packed in a honeycomb crystal lattice. Graphene is most easily visualized as an atomic-scale chicken wire made of carbon atoms and their bonds. Potential applications include graphe circuits, transistors, conducting electrodes, solar cells, ultracapacitors and biodevices.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2018</Year>
+        <Name>Personal fabricators</Name>
+        <Text>Direct digital manufacturing, sometimes called additive, rapid, direct, instant, or on-demand manufacturing, is a manufacturing process which creates physical parts directly from 3D CAD files or data using computer-controlled additive and subtractive fabrication and machining techniques with minimal human intervention.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2020</Year>
+        <Name>Meta materials</Name>
+        <Text>Artificial materials engineered to have properties that may not be found in nature. Potential applications include remote aerospace applications, sensor detection and infrastructure monitoring, smart solar power management, public safety, radomes, and even shielding structures from earthquakes.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2030</Year>
+        <Name>Molecular assembler</Name>
+        <Text>A device able to guide chemical reactions by positioning reactive molecules with atomic precision. These include hypothetical machines that manipulate individual atoms and machines with organism-like self-replicating abilities, mobility, ability to consume food, and so forth.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2040</Year>
+        <Name>Programmable matter</Name>
+        <Text>Matter with the ability to change its physical properties (shape, density, moduli, optical properties, etc.) in a programmable fashion, based upon user input or autonomous sensing. Programmable matter is thus linked to the concept of a material which inherently has the ability to perform information processing.</Text>
+      </YearItem>
+	</YearItems>
+  </TechnoLine>
+  <TechnoLine>
+    <ID>9</ID>
+	<Name>ENERGY</Name>
+    <YearItems>
+      <YearItem>
+        <Year>2013</Year>
+        <Name>Inductive chargers</Name>
+        <Text>Inductive charging uses the electromagnetic field to transfer energy between two objects. A charging station sends energy through inductive coupling to an electrical device, which stores the energy in the batteries. Because there is a small gap between the two coils, inductive charging is one kind of short-distance wireless energy transfer.</Text>
+      </YearItem>
+	  <YearItem>
+        <Year>2015</Year>
+        <Name>Tidal turbines</Name>
+        <Text>A form of hydropower that converts the energy of tides into useful forms of power – mainly electricity.</Text>
+      </YearItem>
+	  <YearItem>
+        <Year>2016</Year>
+        <Name>Fuel cells</Name>
+        <Text>A device that converts the chemical energy from a fuel into electricity through a chemical reaction with oxygen or another oxidizing agent. Fuel cells are different from batteries in that they require a constant source of fuel and oxygen to run, but they can produce electricity continually for as long as these inputs are supplied.</Text>
+      </YearItem>
+	  <YearItem>
+        <Year>2017</Year>
+        <Name>Bio-enhanced fuels</Name>
+        <Text>(Hypothetical) Increasing the potential energy storage of a fuel by means of bioengineering. Somewhat related to Algae bioreactors.</Text>
+      </YearItem>
+	  <YearItem>
+        <Year>2019</Year>
+        <Name>Multi-segmented smart grid</Name>
+        <Text>A type of electrical grid which attempts to predict and intelligently respond to the behavior and actions of all electric power users connected to it – (both suppliers and consumers) – in order to efficiently deliver reliable, economic, and sustainable electricity services.</Text>
+      </YearItem>
+	  <YearItem>
+        <Year>2020</Year>
+        <Name>Photovoltaic glass</Name>
+        <Text>Glass with integrated solar cells which converts solar energy into electricity. This means that the power for an entire building can be produced within the roof and façade areas.</Text>
+      </YearItem>
+	  <YearItem>
+        <Year>2030</Year>
+        <Name>Artificial photosynthesis</Name>
+        <Text>A renewable, carbon-neutral source of fuel, producing either hydrogen, or carbohydrates. This sets it apart from the other popular renewable energy sources — hydroelectric, solar photovoltaic, geothermal, and wind — which produce electricity directly, with no fuel intermediate. It may become a very important source of fuel for transportation. Unlike biomass energy, it does not require arable land, and so it need not compete with the food supply.</Text>
+      </YearItem>
+      <YearItem>
+        <Year>2040</Year>
+        <Name>Space based solar power</Name>
+        <Text>Is the concept of collecting solar power in space for use on Earth. A projected benefit of such a system is higher collection rate. In space, transmission of solar energy is unaffected by the filtering effects of atmospheric gasses. Consequently, collection in orbit is approximately 144% of the maximum attainable on Earth’s surface.</Text>
+      </YearItem>
+	</YearItems>
+  </TechnoLine>
+</ArrayOfTechnoLine>
